@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola!👋 Mi nombre es Geronimo Tortosa
 
 <!--
 **Gero0202/Gero0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
