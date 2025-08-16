@@ -24,10 +24,9 @@ I'm a full-stack developer!
 
 ---
           
-## 📫 Thanks for visiting! Let’s connect  
-<a href="https://www.linkedin.com/in/geronimo-agustin-tortosa-9862911b4/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40">
-</a>&nbsp;&nbsp;&nbsp;🌐 [Portfolio](https://geronimotortosa.com) | 📧 geronimo.tortosa@gmail.com             
+## 📫 Thanks for visiting! Let’s connect   
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Geronimo_Tortosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimo-agustin-tortosa-9862911b4/)
+- 🌐 [Portfolio](https://geronimotortosa.com) | 📧 geronimo.tuemail@gmail.com            
           
                    
           
