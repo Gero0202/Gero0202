@@ -10,23 +10,24 @@ I'm a full-stack developer!
 
 ### 💻 Tech Stack
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40" style="margin: 0 10px;"/>
-</p>                   
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
+</p>                 
 
 ---
           
 ## 📫 Thanks for visiting! Let’s connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geronimo_Tortosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimo-agustin-tortosa-9862911b4/)
-🌐 [Portfolio](https://geronimotortosa.com) | 📧 geronimo.tuemail@gmail.com                
+<a href="https://www.linkedin.com/in/geronimo-agustin-tortosa-9862911b4/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40">
+</a>&nbsp;&nbsp;&nbsp;🌐 [Portfolio](https://geronimotortosa.com) | 📧 geronimo.tortosa@gmail.com             
           
                    
           
