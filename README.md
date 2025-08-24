@@ -23,7 +23,7 @@ I'm a full-stack developer!
 </span>   
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
 </p>                 
-
+  
 ---
           
 ## 📫 Thanks for visiting! Let’s connect   
