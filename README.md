@@ -8,7 +8,7 @@ I'm a full-stack developer!
 
 ---  
 
-### 💻 Tech Stack
+### 💻 Tech Stack 
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 0 7px;"/></span>
