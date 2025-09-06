@@ -1,6 +1,6 @@
 ## Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Geronimo
 
-I'm a full-stack developer!
+I'm a full-stack developer!   
 
 📍 25 years old, from **Argentina**, currently looking for my **first professional opportunity** in tech. 
 
