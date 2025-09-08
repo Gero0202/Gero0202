@@ -7,7 +7,7 @@ I'm a full-stack developer!
 🎯 Open to opportunities in Full Stack, Frontend, or Backend development. 
   
 ---  
-
+    
 ### 💻 Tech Stack 
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
