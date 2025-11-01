@@ -5,7 +5,7 @@ I'm a full-stack developer!
 📍 25 years old, from **Argentina**, currently looking for my **first professional opportunity** in tech. 
     
 🎯 Open to opportunities in Full Stack, Frontend, or Backend development.    
-  
+    
 ---  
     
 ### 💻 Tech Stack 
