@@ -2,13 +2,13 @@
 
 I'm a full-stack developer!   
 
-📍 25 years old, from **Argentina**, currently looking for my **first professional opportunity** in tech. 
+-  25 years old, from **Argentina**, currently looking for my **first professional opportunity** in tech. 
     
-🎯 Open to opportunities in Full Stack, Frontend, or Backend development.    
+-  Open to opportunities in Full Stack, Frontend, or Backend development.    
     
 ---  
     
-### 💻 Tech Stack 
+### Tech Stack 
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 0 7px;"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" style="margin: 0 7px;"/></span>
@@ -26,7 +26,7 @@ I'm a full-stack developer!
   
 ---
           
-## 📫 Thanks for visiting! Let’s connect   
+##  Thanks for visiting! Let’s connect   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Geronimo_Tortosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geronimo-agustin-tortosa-9862911b4/)
 - 🌐 [Portfolio](https://geronimotortosa.com) | 📧 geronimo.tuemail@gmail.com            
           
